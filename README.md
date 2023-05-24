@@ -1,6 +1,6 @@
 # What is this?
-My BrainFuck interpreter + a few demos. 
+My BrainF\*ck interpreter + a few demos. 
 
-# What is brainfuck?
-Brainfuck is an esoteric programming language created in 1993 by Urban Müller. It's basically a turing machine.
-For more information about brainfuck: https://en.wikipedia.org/wiki/Brainfuck
+# What is brainf\*ck?
+Brainf\*ck is an esoteric programming language created in 1993 by Urban Müller. It's basically a turing machine.
+For more information about brainf\*ck: https://en.wikipedia.org/wiki/Brainfuck
